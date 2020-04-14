@@ -4,7 +4,7 @@ Test code of azureml-interpret
 
 ## Install
 with Python3
-`pip install -r requirements.txt`
+`pip install azureml-interpret`
 
 ## Run
 with Python3
